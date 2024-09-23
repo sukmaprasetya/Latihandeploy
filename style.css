@@ -1,0 +1,15 @@
+body {
+    background-color: antiquewhite;
+}
+
+h1 {
+    font-size: medium;
+    color: black;
+    text-align: center;
+}
+
+p {
+    font-size: small;
+    color: #808080;
+    text-align: center;
+}
